@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="627dbafe-a654-4324-8da7-ee36b5801611" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="627dbafe-a654-4324-8da7-ee36b5801611" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598361531028</updated>
       <workItem from="1598361533839" duration="7653000" />
-      <workItem from="1598425911405" duration="26515000" />
+      <workItem from="1598425911405" duration="27035000" />
     </task>
     <task id="LOCAL-00001" summary="start commit">
       <created>1598423904719</created>
@@ -240,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600351423995</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="send gif_file">
+      <created>1600352090947</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352090947</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +262,8 @@
     <MESSAGE value="add Click" />
     <MESSAGE value="add send gif_file" />
     <MESSAGE value="fix send gif_file" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix send gif_file" />
+    <MESSAGE value="send gif_file" />
+    <option name="LAST_COMMIT_MESSAGE" value="send gif_file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598618128141">
@@ -268,10 +274,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598618385595" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1600351423072">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1600352090469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600351423072" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352090468" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598599656387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -296,10 +302,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598425932141" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600351501164">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600352152900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600351501164" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352152900" />
     <state x="756" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598426173918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
