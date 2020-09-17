@@ -25,5 +25,5 @@ def send_text(message):
 
 
 keyboard = telebot.types.ReplyKeyboardMarkup()
-keyboard.row('Привет', 'Пока', 'Хорошо', 'Жыве')
+keyboard.row('Привет', 'Пока', 'Хорошо', 'Жыве', 'Ублюдок')
 bot.polling()
