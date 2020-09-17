@@ -23,7 +23,7 @@ def send_text(message):
     elif message.text.lower() == 'пока':
         bot.send_message(message.chat.id, 'Прощай друг')
     elif message.text.lower() == 'ублюдок':
-        bot.send_document(message.chat.id, 'https://vgif.ru/gifs/162/vgif-ru-36852.mp4')
+        bot.send_document(message.chat.id, 'https://static.life.ru/publications/2020/7/6/665237996492.8094.gif')
 
 
 keyboard = telebot.types.ReplyKeyboardMarkup()
