@@ -23,7 +23,7 @@ def send_text(message):
     elif message.text.lower() == 'пока':
         bot.send_message(message.chat.id, 'Прощай друг')
     elif message.text.lower() == 'ублюдок':
-        bot.send_document(message.chat.id, 'https://giphy.com/gifs/steven-carrot-seagal-EjFx0jioOoMZq')
+        bot.send_document(message.chat.id, 'https://media1.giphy.com/media/gF1VLpOBVWi3tRgcRn/200w.webp?cid=ecf05e47k8v6mvd9teh7rz9e4lrxrjmb70rxbk8v8f7sub8u&rid=200w.webp')
 
 
 keyboard = telebot.types.ReplyKeyboardMarkup()
