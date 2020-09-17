@@ -55,7 +55,29 @@
       <recent name="C:\Users\boldysh.igor\.IntelliJIdea2019.2\tutall" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bottutall">
+  <component name="RunManager" selected="Python.bottutall (1)">
+    <configuration name="bottutall (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bottutall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bottutall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tutall" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bottutall (1)" />
         <item itemvalue="Python.bottutall" />
         <item itemvalue="Python.getUpdate" />
       </list>
@@ -118,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598361531028</updated>
       <workItem from="1598361533839" duration="7653000" />
-      <workItem from="1598425911405" duration="23642000" />
+      <workItem from="1598425911405" duration="24556000" />
     </task>
     <task id="LOCAL-00001" summary="start commit">
       <created>1598423904719</created>
@@ -190,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600347900794</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add send gif_file">
+      <created>1600349114843</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600349114843</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix send gif_file">
+      <created>1600349705041</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600349705041</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +242,9 @@
     <MESSAGE value="update project three" />
     <MESSAGE value="update Procfile" />
     <MESSAGE value="add Click" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Click" />
+    <MESSAGE value="add send gif_file" />
+    <MESSAGE value="fix send gif_file" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix send gif_file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598618128141">
@@ -216,10 +255,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598618385595" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1600347900229">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1600349704424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600347900229" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600349704424" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598599656387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -244,10 +283,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598425932141" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600347936603">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600349160987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600347936603" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600349160987" />
     <state x="756" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598426173918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -260,5 +299,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tutall$getUpdate.coverage" NAME="getUpdate Coverage Results" MODIFIED="1598365899610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/tutall$BotTutAll.coverage" NAME="BotTutAll Coverage Results" MODIFIED="1598365368210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/tutall$bottutall__1_.coverage" NAME="bottutall (1) Coverage Results" MODIFIED="1600349980303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
