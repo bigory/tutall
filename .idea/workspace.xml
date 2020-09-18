@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="627dbafe-a654-4324-8da7-ee36b5801611" name="Default Changelist" comment="" />
+    <list default="true" id="627dbafe-a654-4324-8da7-ee36b5801611" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598361531028</updated>
       <workItem from="1598361533839" duration="7653000" />
-      <workItem from="1598425911405" duration="27035000" />
+      <workItem from="1598425911405" duration="29140000" />
     </task>
     <task id="LOCAL-00001" summary="start commit">
       <created>1598423904719</created>
@@ -245,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600352090947</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="send gif_file">
+      <created>1600352838213</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352838213</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,42 +283,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="605" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598618385595" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1600352090469">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1600352837715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352090468" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352837715" />
+    <state x="184" y="86" width="1564" height="869" key="DiffContextDialog" timestamp="1600411004588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" width="1564" height="869" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600411004588" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598599656387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598599656387" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598425863571">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1600352602023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598425863571" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1598425863570">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352602023" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1600352602023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598425863570" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1598425863570">
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352602023" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1600352602023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598425863570" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1598425863571">
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352602023" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1600352602023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598425863571" />
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352602023" />
+    <state x="746" y="240" key="RollbackChangesDialog" timestamp="1600410953931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="240" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600410953931" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1598425932141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598425932141" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600352152900">
+    <state x="725" y="224" key="VCS.ChangeListViewerDialog" timestamp="1600411008141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352152900" />
+    <state x="725" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600411008141" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600352938804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600352938804" />
     <state x="756" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598426173918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1598426173918" />
+    <state x="749" y="414" key="git4idea.ui.GitResetDialog" timestamp="1600411010147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600411010147" />
     <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1598425148839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
