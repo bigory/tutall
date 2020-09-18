@@ -19,7 +19,7 @@ def send_text(message):
     elif message.text.lower() == 'пока':
         bot.send_message(message.chat.id, 'Прощай друг')
     elif message.text.lower() == 'ублюдок':
-        bot.send_document(message.chat.id, 'https://media-exp1.licdn.com/dms/image/C4D03AQG-dPUFbiXz4A/profile-displayphoto-shrink_800_800/0?e=1605744000&v=beta&t=mVp9HSKZPGAMn5EZGeEb-QIleealUUzeHponcONyeIs')
+        bot.send_document(message.chat.id, 'https://static.life.ru/publications/2020/7/6/665237996492.8094.gif')
 
 
 keyboard = telebot.types.ReplyKeyboardMarkup()
