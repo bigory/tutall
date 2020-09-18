@@ -11,7 +11,7 @@ def start_message(message):
 @bot.message_handler(content_types=['text', 'video'])
 def send_text(message):
     if message.text.lower() == 'привет':
-        bot.send_message(message.chat.id, 'Привет, Дима!Как твои дела?')
+        bot.send_message(message.chat.id, 'Привет!Как твои дела?')
     elif message.text.lower() == 'хорошо':
         bot.send_message(message.chat.id, 'Жыве Беларусь?')
     elif message.text.lower() == 'жыве':
